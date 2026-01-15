@@ -23,28 +23,21 @@
 ---
 
 ## 📌 Proyectos destacados
-🔹 **App Tienda** – Aplicación tipo ecommerce  
-🔹 **APIs REST con Ionic y Angular**  
-🔹 **Sistema de login y registro con imagen de perfil**  
+- 🛒 **App Tienda** — Ecommerce con autenticación y gestión de productos
+- 🔌 **APIs REST** — Backend para apps con Ionic y Angular
+- 🔐 **Login & Registro** — Sistema con imagen de perfil y validaciones
+
 
 👉 Mira mis repos 👇  
 📂 https://github.com/brayannu123?tab=repositories
 
 ---
 
-## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brayannu123&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayannu123&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🤝 Conectemos
-- 💬 Siempre abierto a aprender y colaborar
-- ⭐ Si te gusta algún repo, ¡dale star!
 
+- 💬 Abierto a aprender y colaborar
+- ⭐ Si te gusta algún proyecto, deja tu star
+- 🚀 En constante crecimiento como desarrollador
+  
 🔥 *“Aprendiendo todos los días, línea por línea.”*
